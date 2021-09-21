@@ -1,0 +1,95 @@
+gMax = 28.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 100
+Total net cuts  = 32
+sz:    2     total:    5     edgesCut:    1     netsCuts:    1
+sz:    3     total:   20     edgesCut:   26     netsCuts:   13
+sz:    4     total:   17     edgesCut:   40     netsCuts:   12
+sz:    5     total:    6     edgesCut:   18     netsCuts:    4
+sz:    6     total:    1     edgesCut:    5     netsCuts:    1
+sz:    7     total:    1     edgesCut:   10     netsCuts:    1
+No progress: gMax = 28.000000
+gMax = 28.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 72
+Total net cuts  = 24
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:   20     netsCuts:   10
+sz:    4     total:   17     edgesCut:   25     netsCuts:    8
+sz:    5     total:    6     edgesCut:   16     netsCuts:    4
+sz:    6     total:    1     edgesCut:    5     netsCuts:    1
+sz:    7     total:    1     edgesCut:    6     netsCuts:    1
+gMax = 20.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 52
+Total net cuts  = 16
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:   10     netsCuts:    5
+sz:    4     total:   17     edgesCut:   15     netsCuts:    5
+sz:    5     total:    6     edgesCut:   16     netsCuts:    4
+sz:    6     total:    1     edgesCut:    5     netsCuts:    1
+sz:    7     total:    1     edgesCut:    6     netsCuts:    1
+gMax = 21.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 31
+Total net cuts  = 9
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:    4     netsCuts:    2
+sz:    4     total:   17     edgesCut:    9     netsCuts:    3
+sz:    5     total:    6     edgesCut:   12     netsCuts:    3
+sz:    6     total:    1     edgesCut:    0     netsCuts:    0
+sz:    7     total:    1     edgesCut:    6     netsCuts:    1
+gMax = 19.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 12
+Total net cuts  = 4
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:    2     netsCuts:    1
+sz:    4     total:   17     edgesCut:    6     netsCuts:    2
+sz:    5     total:    6     edgesCut:    4     netsCuts:    1
+sz:    6     total:    1     edgesCut:    0     netsCuts:    0
+sz:    7     total:    1     edgesCut:    0     netsCuts:    0
+gMax = 4.000000, iMax = 0
+----------------------------------------------
+Total edge cuts = 8
+Total net cuts  = 3
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:    4     netsCuts:    2
+sz:    4     total:   17     edgesCut:    0     netsCuts:    0
+sz:    5     total:    6     edgesCut:    4     netsCuts:    1
+sz:    6     total:    1     edgesCut:    0     netsCuts:    0
+sz:    7     total:    1     edgesCut:    0     netsCuts:    0
+gMax = 0.000000, iMax = 24
+----------------------------------------------
+Total edge cuts = 0
+Total net cuts  = 3
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:    0     netsCuts:    2
+sz:    4     total:   17     edgesCut:    0     netsCuts:    0
+sz:    5     total:    6     edgesCut:    0     netsCuts:    1
+sz:    6     total:    1     edgesCut:    0     netsCuts:    0
+sz:    7     total:    1     edgesCut:    0     netsCuts:    0
+----------------------------------------------
+Group A:  
+  1  18   6  20  48  16  14   4  33  13   7  50  10   5  44   3  19  11   8  37  15  12  40   2   9 
+Group B:  
+ 17  25  24  23  22  21  26  27  28  29  30  31  32  34  35  36  38  39  41  42  43  45  46  47  49 
+Conn  18 -  17 cut.
+Conn  33 -  17 cut.
+Conn  10 -  17 cut.
+Conn  44 -  17 cut.
+Conn   3 -  17 cut.
+Conn   3 -  17 cut.
+Conn  37 -  17 cut.
+Conn  40 -  17 cut.
+Total edge cuts = 8
+Net   8 cut.
+Net  12 cut.
+Net  37 cut.
+Total net cuts  = 3
+sz:    2     total:    5     edgesCut:    0     netsCuts:    0
+sz:    3     total:   20     edgesCut:    4     netsCuts:    2
+sz:    4     total:   17     edgesCut:    0     netsCuts:    0
+sz:    5     total:    6     edgesCut:    4     netsCuts:    1
+sz:    6     total:    1     edgesCut:    0     netsCuts:    0
+sz:    7     total:    1     edgesCut:    0     netsCuts:    0

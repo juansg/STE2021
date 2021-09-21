@@ -1,0 +1,42 @@
+IWOMP21
+=======
+
+Compile LLVM12
+==============
+
+cmake -DCMAKE_BUILD_TYPE="Release" -DLLVM_ENABLE_PROJECTS="clang;openmp" -DCMAKE_INSTALL_PREFIX=pathtoIWOMP21/Runtimes/libomp12/llvm12_nstall ../llvm
+
+cmake --build . -j 3
+
+cmake -DCMAKE_INSTALL_PREFIX=pathtoIWOMP21/Runtimes/libomp12/llvm12_nstall -P cmake_install.cmake
+
+
+COMPILE Runtime libomp12
+========================
+
+cd pathtoIWOMP21/Runtimes/libomp12/build_runtime_omp
+
+cmake  -DCMAKE_INSTALL_PREFIX=pathtoIWOMP21/Runtimes/libomp12/llvm12_nstall ../llvm12/openmp
+
+cmake --build . -j 3
+
+cmake -DCMAKE_INSTALL_PREFIX=pathtoIWOMP21/Runtimes/libomp12/llvm12__install -P cmake_install.cmake
+
+
+PATHS
+=====
+
+BASE_PATH=pathtoIWOMP21/Runtimes/libomp12/llvm12_install
+#RUNTIME=pathtoIWOMP21/Runtimes/libomp2016/tmp/lin_32e-rtl_5_nor_dyn.rel.45.c0.s0....h0-juan-pc-asus
+
+export PATH=$BASE_PATH/bin:$RUNTIME:$PATH
+export C_INCLUDE_PATH=$BASE_PATH/include:$RUNTIME:$C_INCLUDE_PATH
+export CPLUS_INCLUDE_PATH=$BASE_PATH/include:$RUNTIME:$CPLUS_INCLUDE_PATH
+export LIBRARY_PATH=$BASE_PATH/lib:$BASE_PATH/lib64:$RUNTIME:$LIBRARY_PATH
+export LD_LIBRARY_PATH=$BASE_PATH/lib:$BASE_PATH/lib64:$BASE_PATH/libexec:$BASE_PATH/libexec64:$RUNTIME:$LD_LIBRARY_PATH
+
+
+AFFINITY
+========
+
+export KMP_AFFINITY=granularity=fine,balanced

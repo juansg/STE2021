@@ -1,0 +1,10 @@
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out1.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out2.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out3.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out4.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out5.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out6.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out7.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out8.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.out9.ppm
+../../inputs/rotate_rgbyuv_workloads/libppm/Berlin_Botanischer-Garten_HB_02.outA.ppm

@@ -1,0 +1,81 @@
+20
+=====
+1
+../inputs/automotive_susan_data/1.pgm output_large.edges.pgm -e > ftmp_out
+374
+=====
+2
+../inputs/automotive_susan_data/2.pgm output_large.edges.pgm -e > ftmp_out
+304
+=====
+3
+../inputs/automotive_susan_data/3.pgm output_large.edges.pgm -e > ftmp_out
+81
+=====
+4
+../inputs/automotive_susan_data/4.pgm output_large.edges.pgm -e > ftmp_out
+1225
+=====
+5
+../inputs/automotive_susan_data/5.pgm output_large.edges.pgm -e > ftmp_out
+146
+=====
+6
+../inputs/automotive_susan_data/6.pgm output_large.edges.pgm -e > ftmp_out
+67
+=====
+7
+../inputs/automotive_susan_data/7.pgm output_large.edges.pgm -e > ftmp_out
+474
+=====
+8
+../inputs/automotive_susan_data/8.pgm output_large.edges.pgm -e > ftmp_out
+1491
+=====
+9
+../inputs/automotive_susan_data/9.pgm output_large.edges.pgm -e > ftmp_out
+46
+=====
+10
+../inputs/automotive_susan_data/10.pgm output_large.edges.pgm -e > ftmp_out
+1081
+=====
+11
+../inputs/automotive_susan_data/11.pgm output_large.edges.pgm -e > ftmp_out
+164
+=====
+12
+../inputs/automotive_susan_data/12.pgm output_large.edges.pgm -e > ftmp_out
+24
+=====
+13
+../inputs/automotive_susan_data/13.pgm output_large.edges.pgm -e > ftmp_out
+527
+=====
+14
+../inputs/automotive_susan_data/14.pgm output_large.edges.pgm -e > ftmp_out
+242
+=====
+15
+../inputs/automotive_susan_data/15.pgm output_large.edges.pgm -e > ftmp_out
+191
+=====
+16
+../inputs/automotive_susan_data/16.pgm output_large.edges.pgm -e > ftmp_out
+318
+=====
+17
+../inputs/automotive_susan_data/17.pgm output_large.edges.pgm -e > ftmp_out
+201
+=====
+18
+../inputs/automotive_susan_data/18.pgm output_large.edges.pgm -e > ftmp_out
+397
+=====
+19
+../inputs/automotive_susan_data/19.pgm output_large.edges.pgm -e > ftmp_out
+43
+=====
+20
+../inputs/automotive_susan_data/20.pgm output_large.edges.pgm -e > ftmp_out
+119

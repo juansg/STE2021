@@ -1,0 +1,1 @@
+time ./asusan_s ./1.pgm output_large.smoothing.pgm -s > ftmp_out
